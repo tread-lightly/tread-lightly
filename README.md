@@ -1,7 +1,7 @@
 ## W.W. ...Who do you figure that is?
 **Purple teamer from a small town**
 
-**- Bug Bounty Bi.Zone Profile:** https://app.bugbounty.bi.zone/profile/tread_lightly/ (5xHigh, 4xMedium, 1xLow)
+**- Bug Bounty Bi.Zone Profile:** https://app.bugbounty.bi.zone/profile/tread_lightly/ (5xHigh, 4xMedium, 2xLow)
 
 **- Standoff365 Profile:** https://standoff365.com/profile/tread_lightly/ (2xMedium)
 
