@@ -1,7 +1,7 @@
 ## W.W. ...Who do you figure that is?
 **Purple teamer from a small town**
 
-**- 27 resolved reports at Bi.Zone Bug Bounty:** https://app.bugbounty.bi.zone/profile/tread_lightly/ (2xCritical, 9xHigh, 12xMedium, 4xLow vulns)
+**- 28 resolved reports at Bi.Zone Bug Bounty:** https://app.bugbounty.bi.zone/profile/tread_lightly/ (2xCritical, 9xHigh, 13xMedium, 4xLow vulns)
 
 **-2 resolved reports at Standoff365 Bug Bounty:** https://standoff365.com/profile/tread_lightly/ (2xMedium vulns)
 
