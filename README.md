@@ -1,7 +1,7 @@
 ## W.W. ...Who do you figure that is?
 **Purple teamer from a small town**
 
-**- 90+ resolved reports at Bi.Zone Bug Bounty, top 1 Q2'25 & Q3'25:** https://bugbounty.bi.zone/profile/tread_lightly/
+**- 100+ resolved reports at Bi.Zone Bug Bounty, top 1 Q2'25 & Q3'25:** https://bugbounty.bi.zone/profile/tread_lightly/
 
 **- 4 resolved reports at Standoff365 Bug Bounty:** https://standoff365.com/profile/tread_lightly/
 
